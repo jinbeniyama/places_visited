@@ -18,7 +18,7 @@ places_visited/
 ```
 
 ## Examples
-![Countries visited](/notebooks/countries_visited.png){width=100%}
+![Countries visited](/notebooks/countries_visited.png)
 
 
 ## Dependencies
