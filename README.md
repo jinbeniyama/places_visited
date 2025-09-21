@@ -14,10 +14,11 @@ places_visited/
   README.md
   notebooks/
     countries_visited.ipynb # Plot countries visited ever
+    countries_visited.png   # Example of output
 ```
 
 ## Examples
-![Countries visited](/notebooks/countries_visited.pdf){width=100%}
+![Countries visited](/notebooks/countries_visited.png){width=100%}
 
 
 ## Dependencies
