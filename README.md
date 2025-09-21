@@ -5,8 +5,10 @@ Developer
 - Jin BENIYAMA [mail](mailto:jinbeniyama@gmail.com)
 
 ## Overview
-A model for analyzing and visualizing visited places — from countries to individual cities — using mapping and plotting tools.
-Under development by J.B.
+Visualize your journey, from countries to cities.
+A simple, intuitive tool to map and plot all the places you've visited.
+Perfect for anyone who wants to see their travels at a glance.
+Currently under development by J.B.
 
 ## Structure
 ```
