@@ -5,29 +5,23 @@ Developer
 - Jin BENIYAMA [mail](mailto:jinbeniyama@gmail.com)
 
 ## Overview
-A model for analyzing and visualizing visited places — from countries to individual cities — using mapping and plotting tools.  
-Under active development by J.B.
+A model for analyzing and visualizing visited places — from countries to individual cities — using mapping and plotting tools.
+Under development by J.B.
 
 ## Structure
 ```
-trem/
+places_visited/
   README.md
-  c/ # TPM code (in prep.)
-  docs/
   notebooks/
-  trem/ 
-    emittance/   # To handle thermal emission (i.e., conventional TPM)
-    reflectance/ # To handle NIR wavelength
-    test/        # For test, whatever
-  src/ # executable script (.py, .sh, etc.)
-    main.py
-    utils/
-      helper.py
-  tests/ # For test, whatever
+    countries_visited.ipynb # Plot countries visited ever
 ```
 
+## Examples
+![Countries visited](/notebooks/countries_visited.pdf){width=100%}
+
+
 ## Dependencies
-This repository is depending on `Python`, `NumPy`, `pandas`.
+This repository is depending on `Python`, `NumPy`, `geopandas`, `matplotlib`.
 
 ## LICENCE
 This software is released under the MIT License.
