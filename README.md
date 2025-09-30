@@ -17,11 +17,19 @@ places_visited/
   notebooks/
     countries_visited.ipynb # Plot countries visited ever
     countries_visited.png   # Example of output
+    countries_visited_2.png   # Example of output
 ```
 
 ## Examples
-![Countries visited](/notebooks/countries_visited.png)
+<p align="center">
+  <img src="/notebooks/countries_visited.png" width="600"/><br>
+  <em>Countries visited (for one person)</em>
+</p>
 
+<p align="center">
+  <img src="/notebooks/countries_visited_2.png" width="600"/><br>
+  <em>Countries visited (for two persons)</em>
+</p>
 
 ## Dependencies
 This repository is depending on `Python`, `NumPy`, `geopandas`, `matplotlib`.
