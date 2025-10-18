@@ -31,6 +31,11 @@ places_visited/
   <em>Countries visited (for two persons)</em>
 </p>
 
+<p align="center">
+  <img src="/notebooks/countries_cities_visited.png" width="600"/><br>
+  <em>Countries and cities visited</em>
+</p>
+
 ## Dependencies
 This repository is depending on `Python`, `NumPy`, `geopandas`, `matplotlib`.
 
