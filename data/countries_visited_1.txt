@@ -1,0 +1,31 @@
+country,city,note
+Japan,Osaka,1996-05
+China,Hongkong;Makau,2017
+Taiwan,Taipei,2018
+South Korea,Seoul,2018
+USA,Honolulu,2019-03
+USA,Hilo,2019-05
+Malaysia,Kuala Lumpur,2019-09
+USA,Houston,2022-03
+South Korea,Busan,2022-08
+Chile,Santiago;Antofagasta;Puerto Montt,2022-11
+France,Nice,2023-05
+Monaco,Montecarlo,2023-05
+USA,Flagstaff,2023-06
+China,Tianjin;Beijing,2024-03
+France,Nice,2024-04
+France,Paris,2024-05
+USA,Hilo,2024-06
+Germany,Darmstadt;Düsseldorf;Köln,2024-11
+Belgium,Brussels,2024-11
+Germany,Munich,2024-12
+Hungary,Budapest,2024-12
+Japan,Tokyo;Osaka;Naha,2025-01
+Sweden,Stockholm,2025-03
+Norway,Oslo,2025-05
+Japan,Tokyo;Osaka,2025-06
+Italy,Genova,2025-08
+Finland,Helsinki,2025-09
+Spain,Madrid,2025-09
+Poland,Krakow,2025-10
+Slovakia,Tatrantika Lomnica,2025-10

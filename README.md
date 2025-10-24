@@ -20,19 +20,44 @@ places_visited/
     countries_visited_2.png   # Example of output
 ```
 
+## Input files 
+Input files should be as follows.
+See `data/countries_visite_1.txt` for details.
+```
+country,city,note
+Japan,Osaka,1996-05
+China,Hongkong;Makau,2017
+Taiwan,Taipei,2018
+South Korea,Seoul,2018
+```
+
 ## Examples
+```python
+# Countiries visited, for one person
+python script/show_countries_visited.py data/countries_visited_1.txt --out fig/countries_visited.png
+```
 <p align="center">
-  <img src="/notebooks/countries_visited.png" width="600"/><br>
+  <img src="/fig/countries_visited.png" width="600"/><br>
   <em>Countries visited (for one person)</em>
 </p>
 
+
+```python
+# Countiries visited, for two person
+python script/show_countries_visited.py data/countries_visited_1.txt data/countries_visited_2.txt --out fig/countries_visited_2.png
+```
 <p align="center">
-  <img src="/notebooks/countries_visited_2.png" width="600"/><br>
+  <img src="/fig/countries_visited_2.png" width="600"/><br>
   <em>Countries visited (for two persons)</em>
 </p>
 
+
+```python
+# Countiries and cities visited, for one person
+python script/show_countries_visited.py data/countries_visited_1.txt --city --out fig/countries_cities_visited.png
+```
 <p align="center">
-  <img src="/notebooks/countries_cities_visited.png" width="600"/><br>
+  <img src="/fig/countries_cities_visited.png" width="600"/><br>
   <em>Countries and cities visited</em>
 </p>
 

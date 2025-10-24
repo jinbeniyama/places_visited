@@ -1,0 +1,28 @@
+country,city,note
+Japan,Okinawa,
+Australia,Sydney,
+Australia,Melbourne,
+South Korea,Seoul,
+China,Beijing,
+Philippines,Manila;Bohol,
+Thailand,Bangkok;Chiang Mai,
+France,Paris;Normandy;Rennes,
+UK,London; Edinburgh,
+Poland,Warsaw;Krakow,
+Switzerland,Bern,
+Italy,Rome;Florence;Venice,
+Spain,Madrid;Barcelona;Granada,
+Mexico,,
+Cuba,,
+Germany,,
+Italy,,
+USA,San Francisco,
+South Korea,Seoul,
+South Korea,Seoul,
+France,Nice,
+Monaco,Montecarlo,
+Italy,Genova,2025-08
+Finland,Helsinki,2025-09
+Spain,Madrid,2025-09
+Poland,Warsaw;Krakow,2025-10
+Slovakia,Tatrantika Lomnica,2025-10
