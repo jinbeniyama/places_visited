@@ -14,10 +14,10 @@ Currently under development by J.B.
 ```
 places_visited/
   README.md
-  notebooks/
-    countries_visited.ipynb # Plot countries visited ever
-    countries_visited.png   # Example of output
-    countries_visited_2.png   # Example of output
+  data/       # Input data
+  fig/        # Output images
+  notebooks/  # For test
+  script/     # Main code
 ```
 
 ## Input files 
