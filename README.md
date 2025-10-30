@@ -20,6 +20,22 @@ places_visited/
   script/     # Main code
 ```
 
+## Environment
+Create the virtual environment:
+```
+python -m venv venv
+```
+
+Activate it:
+```
+source venv/bin/activate
+```
+
+Install required packages:
+```
+pip3 install -r requirements.txt
+```
+
 ## Input files 
 Input files should be as follows.
 See `data/countries_visite_1.txt` for details.
