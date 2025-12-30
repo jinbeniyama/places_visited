@@ -29,3 +29,6 @@ Finland,Helsinki,2025-09
 Spain,Madrid,2025-09
 Poland,Krakow,2025-10
 Slovakia,Tatrantika Lomnica,2025-10
+Italy,Roma,2025-12
+Egypt,Giza;Cairo,2025-12
+Vatican City,,2025-12
